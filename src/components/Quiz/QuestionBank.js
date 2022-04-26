@@ -8,6 +8,13 @@ const QuestionList = [
   },
   {
     question:
+      'Which of the following states is India’s largest Bauxite producer"?',
+    answers: ["Odisha", "Jharkhand", "Rajasthan", "Karnataka"],
+    correct: "Jharkhand",
+    questionId: "2",
+  },
+  {
+    question:
       'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
     answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
     correct: "Czech Republic",
